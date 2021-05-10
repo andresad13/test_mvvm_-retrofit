@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pruebaGrupoDigital</string>
+    <string name="BASE_URL">https://jsonplaceholder.typicode.com/</string>
+    <string name="USER_URL">users</string>
+</resources>
